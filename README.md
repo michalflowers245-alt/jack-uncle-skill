@@ -15,4 +15,4 @@
 
 - 仅基于公开可转写内容整理，**不是**持牌投资建议
 - 内核没覆盖的细节不要编造
-- License：MIT
+- MIT 许可仅覆盖 `SKILL.md` 中原创的提示框架；第三方原作与《思想全书》不包含在许可范围内。详见 [LICENSE-SCOPE.md](LICENSE-SCOPE.md)。
